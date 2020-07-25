@@ -1,0 +1,1 @@
+ export const apiLink = 'https://cors-anywhere.herokuapp.com/https://forkify-api.herokuapp.com/api';
